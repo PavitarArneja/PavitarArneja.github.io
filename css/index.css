@@ -506,6 +506,11 @@ footer {
     font-size: smaller;
   }
 
+  .projectimages {
+    height: 100%;
+    width: 100%;
+  }
+
   .content img {
     margin-top: 0;
     visibility: hidden;
